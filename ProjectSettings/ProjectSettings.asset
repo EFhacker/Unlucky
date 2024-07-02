@@ -139,8 +139,6 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 7b58eee1e1dd94c6a9144642e0fa46ff, type: 2}
-  - {fileID: 11400000, guid: 577a5053d22e2467c8d78c0f091ccffc, type: 2}
-  - {fileID: 6710631069443271421, guid: e151798c65b7043c388ebfef6035176a, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -825,7 +823,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Game Performance: 0
+    Legacy Analytics: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -843,13 +847,13 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: ae039520-b6eb-4be3-ae2a-35a6d34371fc
+  cloudProjectId: 6ee2156d-de0e-4ffe-ad6c-0c10bea3de23
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project_2024.04
-  organizationId: furuichiii
+  projectName: Unlucky (1)
+  organizationId: mm2381fe
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
