@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lesson/Punchi.unity
     guid: 7f34134dd777e4bf298239ae9af03183
   - enabled: 0
@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Clear.unity
     guid: 435a33585ad684f82aee9d6ce28a1d9a
+  - enabled: 1
+    path: Assets/Scenes/Lesson/door.unity
+    guid: 9df4ff25093b64c338bad9bafa55c7c3
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 577a5053d22e2467c8d78c0f091ccffc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e151798c65b7043c388ebfef6035176a, type: 2}
