@@ -29,9 +29,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/origin.unity
     guid: 227c8c5382d9a4002a61a3f2048fc986
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lesson/Lesson_origin.unity
     guid: 71ed6438e03664914802af2d67c192ad
+  - enabled: 0
+    path: Assets/Scenes/Lesson/Lesson_origin_hand.unity
+    guid: 6882d239f795748bab5757ec48b85ace
+  - enabled: 1
+    path: Assets/Scenes/Lesson/Lesson_origin_door.unity
+    guid: 0f6fd77944dea4c3a89c954e3eba746b
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 577a5053d22e2467c8d78c0f091ccffc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e151798c65b7043c388ebfef6035176a, type: 2}
