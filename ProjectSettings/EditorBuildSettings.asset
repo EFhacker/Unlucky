@@ -27,10 +27,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Lesson/door.unity
     guid: 9df4ff25093b64c338bad9bafa55c7c3
   - enabled: 0
-    path: Assets/Scenes/origin.unity
+    path: Assets/Scenes/tutorial.unity
     guid: 227c8c5382d9a4002a61a3f2048fc986
   - enabled: 0
-    path: Assets/Scenes/Lesson/Lesson_origin.unity
+    path: Assets/Scenes/Lesson/origin.unity
     guid: 71ed6438e03664914802af2d67c192ad
   - enabled: 0
     path: Assets/Scenes/Lesson/Lesson_origin_hand.unity
