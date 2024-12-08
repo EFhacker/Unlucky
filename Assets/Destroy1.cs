@@ -18,7 +18,7 @@ public class Destroy1 : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision) //ぶつかったら消える命令文開始
     {
-        if (collision.gameObject.CompareTag(" Finish "))//さっきつけたTagutukeruというタグがあるオブジェクト限定で～という条件の下
+        if (collision.gameObject.CompareTag("Finish"))//さっきつけたTagutukeruというタグがあるオブジェクト限定で～という条件の下
         {
             Destroy(gameObject);//このゲームオブジェクトを消滅させる
         }
