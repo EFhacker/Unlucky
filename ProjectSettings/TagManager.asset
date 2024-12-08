@@ -6,6 +6,7 @@ TagManager:
   tags:
   - hunball
   - ball
+  - ClosetDoor
   layers:
   - Default
   - TransparentFX
