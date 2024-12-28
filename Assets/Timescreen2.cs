@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class TimeScreen2 : MonoBehaviour
 {
-    [SerializeField] private float displayDuration = 8f; // 表示する時間
+    [SerializeField] private float displayDuration = 10f; // 表示する時間
     [SerializeField] private string nextSceneName = "lesson2"; // 次のシーン名
 
     private void Start()

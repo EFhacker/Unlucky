@@ -17,22 +17,22 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Clear.unity
     guid: 435a33585ad684f82aee9d6ce28a1d9a
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/L1_start.unity
     guid: 00e9635e2de4f4958933ab5344561ab7
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Lesson/lesson1.unity
     guid: b36a3a25671c34cf1ba126dc8dd0cac4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Tips/Tips1.unity
     guid: a3ec48f98d0794869badcd9ae996eb20
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/L2_start.unity
     guid: af9ccb9c591c045afba5cdaad95e7399
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lesson/lesson2.unity
     guid: 4e16ed30eb80b4259b257d758acaf123
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tips/Tips2.unity
     guid: 9e6e6a23c9de0485999d9c147bfa333e
   m_configObjects:

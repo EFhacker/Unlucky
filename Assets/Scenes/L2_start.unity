@@ -1131,7 +1131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f24334fe1e634f078286d8047af15eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  displayDuration: 8
+  displayDuration: 10
   nextSceneName: lesson2
 --- !u!1 &741225984
 GameObject:
@@ -2459,7 +2459,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: feb81ec6e13ac4becaa608f51cae6f3c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 21c54a2aaf9a54aee9f457fbd3640b8f, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
